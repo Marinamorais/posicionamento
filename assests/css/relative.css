@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: azure;
+}
+
+main{
+    width: 600px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 0 0 10px #666;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+
+}
+#principal{
+    background-color: rgb(240, 240, 240);
+    border: 1px dotted #6666;
+    margin-top: 20px;
+}
+section{
+ height: 100px;
+ width: 100px;
+ padding: 10px;
+}
+
+.janela1{
+    background-color: green;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.janela2{
+    background-color: blue;
+    
+}
+.janela3{
+    background-color: red;
+  
+}
